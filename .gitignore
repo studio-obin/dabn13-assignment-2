@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+
+# Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+# IDE project files
+.idea/
+
+# OS junk
+.DS_Store
